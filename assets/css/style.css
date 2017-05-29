@@ -1,0 +1,26 @@
+h1{
+  font-style: oblique;
+  }
+
+body{
+  background-color: cyan;
+}
+
+.slide{
+  width: 100%;
+}
+
+.punto{
+  margin-left: 320px;
+  margin-top:30px;
+}
+
+.punto>li{
+  display: inline-block;
+  border-radius: 50%;
+  height: 15px;
+  width: 15px;
+  background: #86B404;
+  margin: 10px;
+
+}
