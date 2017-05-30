@@ -5,9 +5,12 @@ h1{
 body{
   background-color: cyan;
 }
-
+#uno{
+  display: flex;
+}
 .slide{
   width: 100%;
+  display:none;
 }
 
 .punto{
@@ -23,16 +26,4 @@ body{
   background: #86B404;
   margin: 10px;
 
-}
-#dos{
-  display:none;
-}
-#tres{
-  display:none;
-}
-#cuatro{
-  display:none;
-}
-#cinco{
-  display:none;
 }
